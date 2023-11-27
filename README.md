@@ -37,7 +37,7 @@
 - [https://golang.org/ref/mem](https://golang.org/ref/mem) - модель памяти го. на начальном этапе не надо, но знать полезно
 - :exclamation: ~~[https://golang.org/doc/code.html](https://golang.org/doc/code.html) - про организацию кода. GOPATH и пакеты~~
 - [https://golang.org/cmd/go/](https://golang.org/cmd/go/)
-- [https://blog.golang.org/strings](https://blog.golang.org/strings)
+~~- [https://blog.golang.org/strings](https://blog.golang.org/strings)~~
 - [https://blog.golang.org/slices](https://blog.golang.org/slices)
 - [https://blog.golang.org/go-slices-usage-and-internals](https://blog.golang.org/go-slices-usage-and-internals)
 - [https://github.com/golang/go/wiki](https://github.com/golang/go/wiki) - вики го на гитхабе. очень много полезной информации

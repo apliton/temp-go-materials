@@ -39,10 +39,10 @@
 - [https://golang.org/cmd/go/](https://golang.org/cmd/go/)
 ~~- [https://blog.golang.org/strings](https://blog.golang.org/strings)~~
 ~~- [https://blog.golang.org/slices](https://blog.golang.org/slices)~~
-- [https://blog.golang.org/go-slices-usage-and-internals](https://blog.golang.org/go-slices-usage-and-internals)
+~~- [https://blog.golang.org/go-slices-usage-and-internals](https://blog.golang.org/go-slices-usage-and-internals)~~
 - [https://github.com/golang/go/wiki](https://github.com/golang/go/wiki) - вики го на гитхабе. очень много полезной информации
-- [https://blog.golang.org/go-maps-in-action](https://blog.golang.org/go-maps-in-action)
-- [https://blog.golang.org/organizing-go-code](https://blog.golang.org/organizing-go-code)
+~~- [https://blog.golang.org/go-maps-in-action](https://blog.golang.org/go-maps-in-action)~~
+~~- [https://blog.golang.org/organizing-go-code](https://blog.golang.org/organizing-go-code)~~
 - :exclamation: [https://golang.org/doc/effective_go.html](https://golang.org/doc/effective_go.html) - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто
 - :exclamation: [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) как ревьювить (и писать код). обязательно к прочтению
 - [https://divan.github.io/posts/avoid_gotchas/](https://divan.github.io/posts/avoid_gotchas/) - материал аналогичный 50 оттенков го

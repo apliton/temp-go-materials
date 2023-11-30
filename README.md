@@ -4,18 +4,7 @@
 
 ## Полезные книги общего характера
 
-### Алгоритмы
 
-- [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
-- [Теоретический минимум по Computer Science](https://www.ozon.ru/context/detail/id/144946027/)
-- [Карьера программиста](https://www.piter.com/collection/all/product/kariera-programmista-6-e-izdanie-2)
-
-### Культура программирования
-
-- [Чистый код](https://www.ozon.ru/context/detail/id/142429922/)
-- [Идеальный программист](https://www.ozon.ru/context/detail/id/135465064/)
-- [Чистая архитектура](https://www.ozon.ru/context/detail/id/144499396/)
-- [Совершенный код](https://www.ozon.ru/context/detail/id/142768363/)
 
 ### Базы данных
 
@@ -33,20 +22,11 @@
 
 ### Материалы для дополнительного чтения на английском
 
-~~- [https://golang.org/ref/spec](https://golang.org/ref/spec) - спецификация по язык~~
 - [https://golang.org/ref/mem](https://golang.org/ref/mem) - модель памяти го. на начальном этапе не надо, но знать полезно
-- :exclamation: ~~[https://golang.org/doc/code.html](https://golang.org/doc/code.html) - про организацию кода. GOPATH и пакеты~~
 - [https://golang.org/cmd/go/](https://golang.org/cmd/go/)
-~~- [https://blog.golang.org/strings](https://blog.golang.org/strings)~~
-~~- [https://blog.golang.org/slices](https://blog.golang.org/slices)~~
-~~- [https://blog.golang.org/go-slices-usage-and-internals](https://blog.golang.org/go-slices-usage-and-internals)~~
 - [https://github.com/golang/go/wiki](https://github.com/golang/go/wiki) - вики го на гитхабе. очень много полезной информации
-~~- [https://blog.golang.org/go-maps-in-action](https://blog.golang.org/go-maps-in-action)~~
-~~- [https://blog.golang.org/organizing-go-code](https://blog.golang.org/organizing-go-code)~~
 - :exclamation: [https://golang.org/doc/effective_go.html](https://golang.org/doc/effective_go.html) - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто
-~~- :exclamation: [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) как ревьювить (и писать код). обязательно к прочтению~~
 - [https://divan.github.io/posts/avoid_gotchas/](https://divan.github.io/posts/avoid_gotchas/) - материал аналогичный 50 оттенков го
-~~- [https://research.swtch.com/interfaces](https://research.swtch.com/interfaces)~~
 - [https://research.swtch.com/godata](https://research.swtch.com/godata)
 - [http://jordanorelli.com/post/42369331748/function-types-in-go-golang](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [https://www.devdungeon.com/content/working-files-go](https://www.devdungeon.com/content/working-files-go) - работа с файлами
@@ -60,7 +40,6 @@
 ### Материалы для дополнительного чтения на русском
 
 - :exclamation: [https://habrahabr.ru/company/mailru/blog/314804/](https://habrahabr.ru/company/mailru/blog/314804/) - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду
-- [https://habrahabr.ru/post/306914/](https://habrahabr.ru/post/306914/) - Разбираемся в Go: пакет io
 - :exclamation: [https://habrahabr.ru/post/272383/](https://habrahabr.ru/post/272383/) - постулаты go. Маленькая статья об основными принципах языка
 - :exclamation: [https://habrahabr.ru/company/mailru/blog/301036/](https://habrahabr.ru/company/mailru/blog/301036/) - лучшие практики go
 - [https://habrahabr.ru/post/308198/](https://habrahabr.ru/post/308198/) - организация кода в go

@@ -26,7 +26,6 @@
 - [https://golang.org/cmd/go/](https://golang.org/cmd/go/)
 - [https://github.com/golang/go/wiki](https://github.com/golang/go/wiki) - вики го на гитхабе. очень много полезной информации
 - :exclamation: [https://golang.org/doc/effective_go.html](https://golang.org/doc/effective_go.html) - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто
-- [https://divan.github.io/posts/avoid_gotchas/](https://divan.github.io/posts/avoid_gotchas/) - материал аналогичный 50 оттенков го
 - https://go-traps.appspot.com/
 - http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
 

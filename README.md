@@ -28,6 +28,8 @@
 - :exclamation: [https://golang.org/doc/effective_go.html](https://golang.org/doc/effective_go.html) - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто
 - [https://divan.github.io/posts/avoid_gotchas/](https://divan.github.io/posts/avoid_gotchas/) - материал аналогичный 50 оттенков го
 - https://go-traps.appspot.com/
+- http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
+
 - [https://research.swtch.com/godata](https://research.swtch.com/godata)
 - [http://jordanorelli.com/post/42369331748/function-types-in-go-golang](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [https://www.devdungeon.com/content/working-files-go](https://www.devdungeon.com/content/working-files-go) - работа с файлами

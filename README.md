@@ -42,7 +42,6 @@
 ### Материалы для дополнительного чтения на русском
 
 - :exclamation: [https://habrahabr.ru/company/mailru/blog/314804/](https://habrahabr.ru/company/mailru/blog/314804/) - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду
-- :exclamation: [https://habrahabr.ru/post/272383/](https://habrahabr.ru/post/272383/) - постулаты go. Маленькая статья об основными принципах языка
 
 - [https://habrahabr.ru/post/308198/](https://habrahabr.ru/post/308198/) - организация кода в go
 - :exclamation: [https://habrahabr.ru/post/339192/](https://habrahabr.ru/post/339192/) - Зачем в Go амперсанд и звёздочка (& и *)

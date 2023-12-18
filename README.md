@@ -43,8 +43,7 @@
 
 - :exclamation: [https://habrahabr.ru/company/mailru/blog/314804/](https://habrahabr.ru/company/mailru/blog/314804/) - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду
 
-- :exclamation: [https://habrahabr.ru/post/339192/](https://habrahabr.ru/post/339192/) - Зачем в Go амперсанд и звёздочка (& и *)
-- :exclamation: [https://habrahabr.ru/post/325468/](https://habrahabr.ru/post/325468/) - как не наступать на грабли в Go
+- :exclamation: [https://habrahabr.ru/post/339192/](https://habrahabr.ru/post/339192/) - Зачем в Go амперсанд и звёздочка (& 
 - [https://habrahabr.ru/post/276981/](https://habrahabr.ru/post/276981/) - Краш-курс по интерфейсам в Go
 - [http://golang-book.ru](http://golang-book.ru)
 

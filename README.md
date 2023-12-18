@@ -23,7 +23,6 @@
 ### Материалы для дополнительного чтения на английском
 
 - [https://golang.org/ref/mem](https://golang.org/ref/mem) - модель памяти го. на начальном этапе не надо, но знать полезно
-- [https://golang.org/cmd/go/](https://golang.org/cmd/go/)
 - [https://github.com/golang/go/wiki](https://github.com/golang/go/wiki) - вики го на гитхабе. очень много полезной информации
 - :exclamation: [https://golang.org/doc/effective_go.html](https://golang.org/doc/effective_go.html) - основной сборник тайного знания, сюда вы будуте обращатсья в первое время часто
 - https://go-traps.appspot.com/

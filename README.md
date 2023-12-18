@@ -76,7 +76,6 @@
 - [https://www.youtube.com/watch?v=KAWeC9evbGM](https://www.youtube.com/watch?v=KAWeC9evbGM) - видео Андрея Смирнова с конференции Highload - в нём вы можете получить более детальную информацию по теме вводного видео (методы обработки запросов и плюсы неблокирующего подхода), о том, что там творится на системном уровне. На русском, не про go
 
 ### На русском
-- [https://habrahabr.ru/post/308070/](https://habrahabr.ru/post/308070/) - как работают каналы
 - [https://habrahabr.ru/post/333654/](https://habrahabr.ru/post/333654/) - как работает планировщик ([https://rakyll.org/scheduler/](https://rakyll.org/scheduler/))
 - [https://habrahabr.ru/post/271789/](https://habrahabr.ru/post/271789/) - танцы с мютексами
 

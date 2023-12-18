@@ -76,7 +76,6 @@
 
 ### На русском
 - [https://habrahabr.ru/post/333654/](https://habrahabr.ru/post/333654/) - как работает планировщик ([https://rakyll.org/scheduler/](https://rakyll.org/scheduler/))
-- [https://habrahabr.ru/post/271789/](https://habrahabr.ru/post/271789/) - танцы с мютексами
 
 ### Книги
 

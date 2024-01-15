@@ -50,7 +50,6 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 - [https://blog.golang.org/pipelines](https://blog.golang.org/pipelines)
 - [https://blog.golang.org/advanced-go-concurrency-patterns](https://blog.golang.org/advanced-go-concurrency-patterns)
 - [https://blog.golang.org/go-concurrency-patterns-timing-out-and](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
-- [https://talks.golang.org/2012/concurrency.slide#1](https://talks.golang.org/2012/concurrency.slide#1)
 - [https://www.goinggo.net/2017/10/the-behavior-of-channels.html](https://www.goinggo.net/2017/10/the-behavior-of-channels.html)
 - [http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/) - рассказ про оптимизацию воркер пула
 - [http://www.tapirgames.com/blog/golang-channel-closing](http://www.tapirgames.com/blog/golang-channel-closing)

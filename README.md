@@ -41,17 +41,6 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 - :exclamation: [https://habrahabr.ru/company/mailru/blog/314804/](https://habrahabr.ru/company/mailru/blog/314804/) - 50 оттенков го. обязательно к прочтению. многое оттуда мы ещё не проходили, но на будущее - имейте ввиду
 
 - :exclamation: [https://habrahabr.ru/post/339192/](https://habrahabr.ru/post/339192/) - Зачем в Go амперсанд и звёздочка (& 
-- [http://golang-book.ru](http://golang-book.ru)
-
-### Литература по го на русском языке
-
-- Язык программирования Go, Алан А. А. Донован, Брайан У. Керниган
-- Go на практике, Matt Butcher, Мэтт Фарина Мэтт
-- Программирование на Go. Разработка приложений XXI века, Марк Саммерфильд
-
-### Дополнительные упражнения
-
-- [https://go-tour-ru-ru.appspot.com/list](https://go-tour-ru-ru.appspot.com/list) - упражнения на овладение базовым синтаксисом, на случай если вам нужна небольшая практика перед первым заданием курса
 
 ## Материалы для чтения ко 2-му уроку
 

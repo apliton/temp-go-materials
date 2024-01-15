@@ -30,7 +30,6 @@ STOPPED
 Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 - [https://research.swtch.com/godata](https://research.swtch.com/godata)
 - [https://www.devdungeon.com/content/working-files-go](https://www.devdungeon.com/content/working-files-go) - работа с файлами
-- [http://www.golangprograms.com](http://www.golangprograms.com) - много how-to касательно базовых вещей в go
 - :exclamation: [http://yourbasic.org/golang/](http://yourbasic.org/golang/) - ещё большой набор how-to где можно получить углублённую информацию по всем базовым вещам. очень полезны [http://yourbasic.org/golang/blueprint/](http://yourbasic.org/golang/blueprint/)
 - [https://github.com/Workiva/go-datastructures](https://github.com/Workiva/go-datastructures)
 - [https://github.com/enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - большая подборка статей по многим темам ( не только данной лекции )

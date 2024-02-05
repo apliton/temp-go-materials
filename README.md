@@ -23,7 +23,6 @@
 ### Материалы для дополнительного чтения на английском
 
 - [https://golang.org/ref/mem](https://golang.org/ref/mem) - модель памяти го. на начальном этапе не надо, но знать полезно
-- https://go-traps.appspot.com/
 - http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
 
 STOPPED

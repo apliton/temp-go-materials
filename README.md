@@ -69,8 +69,6 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 ## Материалы для чтения к 3-му уроку
 
 ### Рефлексия и кодогенерация
-
-- [https://blog.golang.org/laws-of-reflection](https://blog.golang.org/laws-of-reflection)
 - [https://habrahabr.ru/post/269887/](https://habrahabr.ru/post/269887/)
 - [https://golang.org/src/go/ast/example_test.go](https://golang.org/src/go/ast/example_test.go)
 - [https://github.com/golang/tools/blob/master/cmd/stringer/stringer.go](https://github.com/golang/tools/blob/master/cmd/stringer/stringer.go)

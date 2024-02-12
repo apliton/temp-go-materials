@@ -80,7 +80,7 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 - :exclamation: [https://habrahabr.ru/company/badoo/blog/301990/](https://habrahabr.ru/company/badoo/blog/301990/)
 - :exclamation: [https://habrahabr.ru/company/badoo/blog/324682/](https://habrahabr.ru/company/badoo/blog/324682/)
 - :exclamation: [https://habrahabr.ru/company/badoo/blog/332636/](https://habrahabr.ru/company/badoo/blog/332636/)
-- :exclamation: [https://habrahabr.ru/company/mailru/blog/331784/](https://habrahabr.ru/company/mailru/blog/331784/) - статья про то как Почта@Mail.ru держит 3 миллиона вебсокет-соединений
+
 
 #### Материалы на английском
 

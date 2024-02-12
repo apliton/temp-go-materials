@@ -124,7 +124,6 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 
 ### Дополнительные материалы
 
-- [https://gowebexamples.github.io/](https://gowebexamples.github.io/) - примеры касательно разработки веба
 - [https://golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)
 - [https://astaxie.gitbooks.io/build-web-application-with-golang/](https://astaxie.gitbooks.io/build-web-application-with-golang/)
 - [https://github.com/thewhitetulip/web-dev-golang-anti-textbook/](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)

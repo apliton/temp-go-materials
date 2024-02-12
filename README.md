@@ -70,7 +70,6 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 
 ### Рефлексия и кологенерация
 - [https://golang.org/pkg/reflect/](https://golang.org/pkg/reflect/)
-- [http://blog.burntsushi.net/type-parametric-functions-golang/](http://blog.burntsushi.net/type-parametric-functions-golang/)
 - [https://habrahabr.ru/post/269887/](https://habrahabr.ru/post/269887/)
 - [https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d](https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d)
 - [https://medium.com/kokster/go-reflection-creating-objects-from-types-part-ii-composite-types-69a0e8134f20](https://medium.com/kokster/go-reflection-creating-objects-from-types-part-ii-composite-types-69a0e8134f20)

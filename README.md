@@ -69,7 +69,6 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 ## Материалы для чтения к 3-му уроку
 
 ### Рефлексия и кологенерация
-- [https://github.com/golang/tools/blob/master/cmd/stringer/stringer.go](https://github.com/golang/tools/blob/master/cmd/stringer/stringer.go)
 - [https://golang.org/pkg/reflect/](https://golang.org/pkg/reflect/)
 - [http://blog.burntsushi.net/type-parametric-functions-golang/](http://blog.burntsushi.net/type-parametric-functions-golang/)
 - [https://habrahabr.ru/post/269887/](https://habrahabr.ru/post/269887/)

@@ -123,8 +123,6 @@ Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 - [https://golang.org/pkg/net/http/](https://golang.org/pkg/net/http/)
 
 ### Дополнительные материалы
-
-- [https://golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)
 - [https://astaxie.gitbooks.io/build-web-application-with-golang/](https://astaxie.gitbooks.io/build-web-application-with-golang/)
 - [https://github.com/thewhitetulip/web-dev-golang-anti-textbook/](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 - [https://codegangsta.gitbooks.io/building-web-apps-with-go/content/](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)

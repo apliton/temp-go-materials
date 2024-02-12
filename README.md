@@ -23,10 +23,6 @@
 ### Материалы для дополнительного чтения на английском
 
 - [https://golang.org/ref/mem](https://golang.org/ref/mem) - модель памяти го. на начальном этапе не надо, но знать полезно
-- http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html
-
-STOPPED
-Sending to an Unbuffered Channel Returns As Soon As the Target Receiver Is Ready
 - [https://research.swtch.com/godata](https://research.swtch.com/godata)
 - :exclamation: [http://yourbasic.org/golang/](http://yourbasic.org/golang/) - ещё большой набор how-to где можно получить углублённую информацию по всем базовым вещам. очень полезн
 - [https://github.com/Workiva/go-datastructures](https://github.com/Workiva/go-datastructures)
